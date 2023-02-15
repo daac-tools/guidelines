@@ -46,3 +46,8 @@ Members of every project come and go, and daac-tools is no different. When someb
 disengages from the project, in whole or in part, we ask that they do so in a way that minimizes
 disruption to the project. This means they should tell people they are leaving and take the proper
 steps to ensure that others can pick up where they left off.
+
+This Code of Conduct is modified from the [Ubuntu Codes of
+Conduct](https://ubuntu.com/community/governance/code-of-conduct) and is distributed under the
+[Creative Commons Attribution-Share Alike 3.0
+license](http://creativecommons.org/licenses/by-sa/3.0/).
