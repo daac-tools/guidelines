@@ -44,7 +44,7 @@ When somebody leaves or disengages from the project, we ask that they do so in a
 disruption to the project. They should tell people they are leaving and take the proper steps to
 ensure that others can pick up where they left off.
 
-This Code of Conduct is modified from the [Ubuntu Codes of
-Conduct](https://ubuntu.com/community/governance/code-of-conduct) and is distributed under the
+This Code of Conduct is modified from the [Ubuntu Code of
+Conduct v2.0](https://ubuntu.com/community/governance/code-of-conduct) and is distributed under the
 [Creative Commons Attribution-Share Alike 3.0
 license](http://creativecommons.org/licenses/by-sa/3.0/).
